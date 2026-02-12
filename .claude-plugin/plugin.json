@@ -1,0 +1,12 @@
+{
+  "name": "awesome-copilot",
+  "version": "1.0.0",
+  "description": "Community-contributed skills from GitHub's awesome-copilot collection. Includes 40+ skills for git workflows, web development, Azure, debugging, testing, documentation, and more.",
+  "author": {
+    "name": "GitHub Community (forked by ivolabbe)",
+    "url": "https://github.com/ivolabbe/awesome-copilot"
+  },
+  "repository": "https://github.com/ivolabbe/awesome-copilot",
+  "license": "MIT",
+  "keywords": ["skills", "git", "azure", "web", "testing", "documentation", "community"]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "awesome-copilot",
+  "description": "Community-contributed skills, prompts, and instructions from GitHub's awesome-copilot collection, adapted for Claude Code",
+  "owner": {
+    "name": "ivolabbe",
+    "url": "https://github.com/ivolabbe"
+  },
+  "plugins": [
+    {
+      "name": "awesome-copilot",
+      "source": "./",
+      "description": "40+ skills covering git workflows, web development, Azure, debugging, testing, documentation, and more — ported from the GitHub awesome-copilot community collection",
+      "version": "1.0.0"
+    }
+  ]
+}
